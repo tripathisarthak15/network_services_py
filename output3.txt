@@ -1,0 +1,10 @@
+luv15@pop-os:~/Documents/network_services_py$ /bin/python3 /home/luv15/Documents/network_services_py/net_serv.py
+1. Download a YouTube Video
+2. Check your network
+3. Do a speedtest
+4. URL to QR Converter
+5. Exit
+Enter your choice: 3
+Wifi Download Speed is  105803454.57566015
+Wifi Upload Speed is  100235519.73931839
+luv15@pop-os:~/Documents/network_services_py$ 

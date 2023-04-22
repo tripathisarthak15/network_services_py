@@ -1,0 +1,9 @@
+luv15@pop-os:~/Documents/network_services_py$ /bin/python3 /home/luv15/Documents/network_services_py/net_serv.py
+1. Download a YouTube Video
+2. Check your network
+3. Do a speedtest
+4. URL to QR Converter
+5. Exit
+Enter your choice: 1
+Enter YouTube URL:https://www.youtube.com/watch?v=f2nhDhXuP9M
+Download is completed successfully
