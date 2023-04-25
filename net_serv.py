@@ -3,7 +3,7 @@ import urllib.request
 import speedtest
 import qrcode
 
-def spdtest(): 
+def spdtest():
     wifi  = speedtest.Speedtest()
     print("Wifi Download Speed is ", wifi.download())
     print("Wifi Upload Speed is ", wifi.upload())
